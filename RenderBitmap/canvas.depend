@@ -1,0 +1,784 @@
+# depslib dependency file v1.0
+1589222603 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1603975055 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1589214882 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\vector2.h
+
+1603975055 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1589214882 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\vector2.h
+
+1651596116 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Config/Config.h"
+	<iostream>
+
+1589214882 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1651598995 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\bitmap\bitmap.cpp
+	"Bitmap.h"
+	"../../Modules/gl_canvas2d.h"
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	"../../Utils/Utils.h"
+
+1651598777 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\bitmap\bitmap.h
+	"../../Utils/Utils.h"
+	<string>
+
+1651598974 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\config\config.cpp
+	"Config.h"
+	"../Modules/gl_canvas2d.h"
+	"../Utils/Utils.h"
+	"../Components/Button/Button.h"
+	"../Components/Checkbox/Checkbox.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	<iostream>
+	<algorithm>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1651596111 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\config\config.h
+	"../Components/Button/Button.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	"../Components/Checkbox/Checkbox.h"
+	<vector>
+
+1651255517 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\modules\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"../Utils/Vector2.h"
+
+1651588406 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\utils\vector2.h
+
+1651413974 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\controller\controller.cpp
+	"Controller.h"
+	<iostream>
+
+1651256327 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\controller\controller.h
+
+1651255545 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\modules\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1651588411 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\utils\utils.h
+	<vector>
+	<string>
+
+1651588581 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\utils\utils.cpp
+	"../Modules/gl_canvas2d.h"
+	"Utils.h"
+	<unistd.h>
+	<iostream>
+
+1651598649 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\slider\slider.cpp
+	"Slider.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651598643 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\slider\slider.h
+	"../Bitmap/Bitmap.h"
+	<string>
+
+1651513684 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\basecomponent.h
+	<vector>
+
+1651595196 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\button\button.cpp
+	"Button.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651595164 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\button\button.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590561 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\histogram\histogram.h
+	"../Bitmap/Bitmap.h"
+	<string>
+	<vector>
+
+1651587156 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\checkbox\checkbox.cpp
+	"Checkbox.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651587670 c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\checkbox\checkbox.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590573 source:c:\users\julia\onedrive\Área de trabalho\primeiro-semestre-2022\computação gráfica\cg\demos\t1_julianosoares\src\components\histogram\histogram.cpp
+	"Histogram.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+	<algorithm>
+
+1651598995 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\bitmap\bitmap.cpp
+	"Bitmap.h"
+	"../../Modules/gl_canvas2d.h"
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	"../../Utils/Utils.h"
+
+1651598777 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\bitmap\bitmap.h
+	"../../Utils/Utils.h"
+	<string>
+
+1651588411 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\utils\utils.h
+	<vector>
+	<string>
+
+1651255517 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\modules\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"../Utils/Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1651588406 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\utils\vector2.h
+
+1651595196 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\button\button.cpp
+	"Button.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651595164 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\button\button.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590561 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\histogram\histogram.h
+	"../Bitmap/Bitmap.h"
+	<string>
+	<vector>
+
+1651587156 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\checkbox\checkbox.cpp
+	"Checkbox.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651587670 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\checkbox\checkbox.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590573 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\histogram\histogram.cpp
+	"Histogram.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+	<algorithm>
+
+1651598649 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\slider\slider.cpp
+	"Slider.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651598643 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\components\slider\slider.h
+	"../Bitmap/Bitmap.h"
+	<string>
+
+1651599567 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Config/Config.h"
+	<iostream>
+
+1651601184 c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\config\config.h
+	"../Components/Button/Button.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	"../Components/Checkbox/Checkbox.h"
+	<vector>
+
+1651255545 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\modules\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1651588581 source:c:\users\julia\onedrive\Área de trabalho\trab 1 juliano soares\src\utils\utils.cpp
+	"../Modules/gl_canvas2d.h"
+	"Utils.h"
+	<unistd.h>
+	<iostream>
+
+1651598995 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\bitmap\bitmap.cpp
+	"Bitmap.h"
+	"../../Modules/gl_canvas2d.h"
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	"../../Utils/Utils.h"
+
+1651598777 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\bitmap\bitmap.h
+	"../../Utils/Utils.h"
+	<string>
+
+1651588411 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\utils\utils.h
+	<vector>
+	<string>
+
+1651255517 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\modules\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"../Utils/Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1651588406 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\utils\vector2.h
+
+1651595196 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\button\button.cpp
+	"Button.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651595164 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\button\button.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590561 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\histogram\histogram.h
+	"../Bitmap/Bitmap.h"
+	<string>
+	<vector>
+
+1651587156 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\checkbox\checkbox.cpp
+	"Checkbox.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651587670 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\checkbox\checkbox.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590573 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\histogram\histogram.cpp
+	"Histogram.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+	<algorithm>
+
+1651598649 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\slider\slider.cpp
+	"Slider.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651598643 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\components\slider\slider.h
+	"../Bitmap/Bitmap.h"
+	<string>
+
+1651601202 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\config\config.cpp
+	"Config.h"
+	"../Modules/gl_canvas2d.h"
+	"../Utils/Utils.h"
+	"../Components/Button/Button.h"
+	"../Components/Checkbox/Checkbox.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	<iostream>
+	<algorithm>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1651601184 c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\config\config.h
+	"../Components/Button/Button.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	"../Components/Checkbox/Checkbox.h"
+	<vector>
+
+1651599567 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Config/Config.h"
+	<iostream>
+
+1651255545 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\modules\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1651588581 source:c:\users\julia\onedrive\Área de trabalho\teste\trab 1 juliano soares\src\utils\utils.cpp
+	"../Modules/gl_canvas2d.h"
+	"Utils.h"
+	<unistd.h>
+	<iostream>
+
+1651598995 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\bitmap\bitmap.cpp
+	"Bitmap.h"
+	"../../Modules/gl_canvas2d.h"
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	"../../Utils/Utils.h"
+
+1651598777 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\bitmap\bitmap.h
+	"../../Utils/Utils.h"
+	<string>
+
+1651588411 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\utils\utils.h
+	<vector>
+	<string>
+
+1651255517 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\modules\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"../Utils/Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1651588406 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\utils\vector2.h
+
+1651595196 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\button\button.cpp
+	"Button.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651595164 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\button\button.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590561 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\histogram\histogram.h
+	"../Bitmap/Bitmap.h"
+	<string>
+	<vector>
+
+1651587156 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\checkbox\checkbox.cpp
+	"Checkbox.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651587670 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\checkbox\checkbox.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590573 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\histogram\histogram.cpp
+	"Histogram.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+	<algorithm>
+
+1651598649 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\slider\slider.cpp
+	"Slider.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651598643 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\components\slider\slider.h
+	"../Bitmap/Bitmap.h"
+	<string>
+
+1651601202 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\config\config.cpp
+	"Config.h"
+	"../Modules/gl_canvas2d.h"
+	"../Utils/Utils.h"
+	"../Components/Button/Button.h"
+	"../Components/Checkbox/Checkbox.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	<iostream>
+	<algorithm>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1651601184 c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\config\config.h
+	"../Components/Button/Button.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	"../Components/Checkbox/Checkbox.h"
+	<vector>
+
+1651599567 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Config/Config.h"
+	<iostream>
+
+1651255545 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\modules\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1651601906 source:c:\users\julia\onedrive\Área de trabalho\teste\trab_1_juliano_soares\src\utils\utils.cpp
+	"../Modules/gl_canvas2d.h"
+	"Utils.h"
+	<unistd.h>
+	<iostream>
+
+1651598995 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\bitmap\bitmap.cpp
+	"Bitmap.h"
+	"../../Modules/gl_canvas2d.h"
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	"../../Utils/Utils.h"
+
+1651598777 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\bitmap\bitmap.h
+	"../../Utils/Utils.h"
+	<string>
+
+1651588411 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\utils\utils.h
+	<vector>
+	<string>
+
+1651255517 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\modules\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"../Utils/Vector2.h"
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1651588406 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\utils\vector2.h
+
+1651595196 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\button\button.cpp
+	"Button.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651595164 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\button\button.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590561 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\histogram\histogram.h
+	"../Bitmap/Bitmap.h"
+	<string>
+	<vector>
+
+1651587156 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\checkbox\checkbox.cpp
+	"Checkbox.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651587670 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\checkbox\checkbox.h
+	"../Bitmap/Bitmap.h"
+	"../Histogram/Histogram.h"
+	<string>
+
+1651590573 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\histogram\histogram.cpp
+	"Histogram.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+	<algorithm>
+
+1651598649 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\slider\slider.cpp
+	"Slider.h"
+	"../../Modules/gl_canvas2d.h"
+	"../../Utils/Utils.h"
+	<iostream>
+
+1651598643 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\components\slider\slider.h
+	"../Bitmap/Bitmap.h"
+	<string>
+
+1651601202 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\config\config.cpp
+	"Config.h"
+	"../Modules/gl_canvas2d.h"
+	"../Utils/Utils.h"
+	"../Components/Button/Button.h"
+	"../Components/Checkbox/Checkbox.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	<iostream>
+	<algorithm>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1651601184 c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\config\config.h
+	"../Components/Button/Button.h"
+	"../Components/Slider/Slider.h"
+	"../Components/Histogram/Histogram.h"
+	"../Components/Checkbox/Checkbox.h"
+	<vector>
+
+1651852698 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Config/Config.h"
+	<iostream>
+
+1651255545 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\modules\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1651852723 source:c:\users\julia\onedrive\Área de trabalho\teste\renderbitmap\src\utils\utils.cpp
+	"../Modules/gl_canvas2d.h"
+	"Utils.h"
+	<unistd.h>
+	<iostream>
+
